@@ -2,7 +2,7 @@ import os, random, logging, json
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = "8637209240:AAGieFcLTbAeclcPzEuoxx2LM4at8HCumNE"
+BOT_TOKEN = "8637209240:AAHcOPCvLuz4-PkaXV5GDllUo675SiviRxk"
 logging.basicConfig(level=logging.INFO)
 
 def load_questions():
